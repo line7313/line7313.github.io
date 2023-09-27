@@ -1,0 +1,32 @@
+.landing-text {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    padding-bottom: 5rem;
+}
+
+.landing-page {
+    margin: 5rem 1rem 0rem 1rem;
+}
+
+.astroid-background {
+    background-image: url("../media/BackgroundImage.png");
+}
+
+.row-item {
+    margin-bottom: 5rem;
+}
+
+.resume-item { 
+    margin-left: 5rem;
+    margin-right: 1rem;
+}
+
+.page-title {
+    padding-top: 5rem;
+}
+
+
+body {
+    color: #141414;
+    background-color: #141414;
+}
